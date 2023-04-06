@@ -24,16 +24,4 @@ transaction_db.execute('''CREATE TABLE IF NOT EXISTS STATUS
                       (ID INTEGER PRIMARY KEY NOT NULL,
                         FLAG INT NOT NULL);''')
 
-
-
-
-
-
 transaction_db.commit()
-
-
-
-
-
-transaction_db.commit()
-transaction_db.close()
