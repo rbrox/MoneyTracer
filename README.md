@@ -29,7 +29,7 @@ Note that this is a general outline, and the exact steps and libraries you use m
 TO DO
 
 - Someone to help me in coding alone this is crazy hard
-- Someone ready to explore the various FRAUD TRACING ALGO and prefreably suggest how to implement in python.
+- Someone ready to explore the various FRAUD TRACING ALGO and prefreably suggest how to implement in python. suggested reading Outlier analysis 
 - Someone to make a pictorial depiction of the db schema
 - Someone to document our reaserch, and prepare test data
 
